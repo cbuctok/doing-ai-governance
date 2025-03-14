@@ -56,7 +56,6 @@ Additional details and extended discussion on the methodology are available at [
    pip install pandas matplotlib networkx openpyxl
    ```
    
-   *(Alternatively, if a `requirements.txt` is provided, run: `pip install -r requirements.txt`)*
 
 ## Running the Application
 
