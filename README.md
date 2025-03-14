@@ -1,12 +1,9 @@
-Below is a sample README.md file you can include in your repo:
 
----
-
-# Governance Map Application
+# Governance Mega-Map Application
 
 ## Overview
 
-The Governance Map Application is a tool for visualizing relationships between governance controls from multiple sources. The application takes mapping data from an Excel file and converts it into a JSON file that is then used to generate an interactive chord diagram. This diagram visually represents the relationships between a master control set and various source control sets (e.g., ISO42001, ISO27001, ISO27701, EU AI ACT, NIST RMF, SOC2).
+The Governance MegaMap Application is a tool for visualising relationships between governance controls from multiple sources. The application takes mapping data from an Excel file and converts it into a JSON file that is then used to generate an interactive chord diagram. This diagram visually represents the relationships between a master control set and various source control sets (e.g., ISO42001, ISO27001, ISO27701, EU AI ACT, NIST RMF, SOC2).
 
 Additional details and extended discussion on the methodology are available at [ethos-ai.org](https://ethos-ai.org).
 
@@ -104,6 +101,3 @@ python governance_map.py
 
 This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
----
-
-Feel free to adjust the text as needed for your repo.
